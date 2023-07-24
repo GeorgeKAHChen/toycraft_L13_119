@@ -1,3 +1,17 @@
+# Toycraft: 1.19 mod version
+
+This mod is only for the minecraft survival server and package: toycraft-servival: L13: Tears of Nishikino(L13:ToN). DEVELOPMENT AND WIKI ONLY AVAILABLE IN CHINESE.
+
+该模组仅用于 minecraft 生存服务器及 玩具国十三周目：西木野之泪 模组包。开发和 wiki 仅适用于中文。
+
+### 玩具国生存 - 十三周目：西木野之泪
+
+---------
+
+（以下为 forge 原 readme）
+
+
+
 
 Source installation information for modders
 -------------------------------------------
