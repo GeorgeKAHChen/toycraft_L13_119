@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "toycraft:item/ad_insect_shell"
+  }
+}

@@ -123,13 +123,17 @@ public class Toycraft
     
     public static final RegistryObject<Item> YUUTA = ITEMS.register("yuuta", () -> new Item(new Item.Properties()));
     
+    public static final RegistryObject<Item> PENDANT_COURAGE = ITEMS.register("pendant_courage", () -> new Item(new Item.Properties()));
     
+    public static final RegistryObject<Item> PENDANT_POWER = ITEMS.register("pendant_power", () -> new Item(new Item.Properties()));
+    
+    public static final RegistryObject<Item> PENDANT_WISDOM = ITEMS.register("pendant_wisdom", () -> new Item(new Item.Properties()));
 
     // 武器
-    public static final RegistryObject<SwordItem> ICECREAM = ITEMS.register("icecream", () -> new SwordItem(Tiers.WOOD, 2, -2.4F, new Item.Properties()));
-    public static final RegistryObject<SwordItem> ICECREAM_2 = ITEMS.register("icecream_2", () -> new SwordItem(Tiers.NETHERITE, 0, -2.4F, new Item.Properties()));
-    public static final RegistryObject<SwordItem> ICECREAM_3 = ITEMS.register("icecream_3", () -> new SwordItem(Tiers.NETHERITE, -1, -2.4F, new Item.Properties()));
-    public static final RegistryObject<SwordItem> TANGHULU = ITEMS.register("tanghulu", () -> new SwordItem(Tiers.WOOD, 0, 1F, new Item.Properties().durability(4096)));
+    public static final RegistryObject<SwordItem> ICECREAM = ITEMS.register("icecream", () -> new SwordItem(Tiers.WOOD, 1, -2.4F, new Item.Properties()));
+    public static final RegistryObject<SwordItem> ICECREAM_2 = ITEMS.register("icecream_2", () -> new SwordItem(Tiers.WOOD, 11, -2.4F, new Item.Properties()));
+    public static final RegistryObject<SwordItem> ICECREAM_3 = ITEMS.register("icecream_3", () -> new SwordItem(Tiers.WOOD, 13, -2.4F, new Item.Properties()));
+    public static final RegistryObject<SwordItem> TANGHULU = ITEMS.register("tanghulu", () -> new SwordItem(Tiers.WOOD, 5, -1F, new Item.Properties()));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_SWORD_W  = ITEMS.register("aa_traveler_sword_w", () -> new SwordItem(
         Tiers.WOOD, 1, -2.4F, new Item.Properties().durability(20)));
@@ -456,11 +460,130 @@ public class Toycraft
         Tiers.WOOD, 13, -3F, new Item.Properties().durability(470)));
 
     // 金钱
-    public static final RegistryObject<Item> RUPEES_1 = ITEMS.register("rupees_1", () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> RUPEES_2 = ITEMS.register("rupees_2", () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> RUPEES_3 = ITEMS.register("rupees_3", () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> RUPEES_4 = ITEMS.register("rupees_4", () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> RUPEES_5 = ITEMS.register("rupees_5", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RUPEES_1 = 
+        ITEMS.register("rupees_1", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> RUPEES_2 = 
+        ITEMS.register("rupees_2", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> RUPEES_3 = 
+        ITEMS.register("rupees_3", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> RUPEES_4 = 
+        ITEMS.register("rupees_4", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> RUPEES_5 = 
+        ITEMS.register("rupees_5", () -> new Item(new Item.Properties()));
+
+    // 怪物材料
+    public static final RegistryObject<Item> AD_INSECT_SHELL =
+         ITEMS.register("ad_insect_shell", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<SwordItem> ASSAULT_KNIFE  = ITEMS.register("assault_knife", () -> new SwordItem(
+        Tiers.WOOD, 19, -2.4F, new Item.Properties().durability(2)));
+
+    public static final RegistryObject<Item> BAT_EYE =
+         ITEMS.register("bat_eye", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> BEE_NEEDLE =
+         ITEMS.register("bee_needle", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> CAMEL_MILK =
+         ITEMS.register("camel_milk", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> CHUCHU_GUM =
+         ITEMS.register("chuchu_gum", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> DARK_SCALES =
+         ITEMS.register("dark_scales", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> DEVIL_TOUCH =
+         ITEMS.register("devil_touch", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> DRAGON_SCALES =
+         ITEMS.register("dragon_scales", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> EVOKER_BADGE =
+         ITEMS.register("evoker_badge", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> FROG_CORNER =
+         ITEMS.register("frog_corner", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> GOAT_MILK =
+         ITEMS.register("goat_milk", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> GUARDIAN_BADGE =
+         ITEMS.register("guardian_badge", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<SwordItem> HOGLIN_HORN  = ITEMS.register("hoglin_horn", () -> new SwordItem(
+        Tiers.WOOD, 19, -2.4F, new Item.Properties().durability(2)));
+
+    public static final RegistryObject<Item> INSECT_SHELL =
+         ITEMS.register("insect_shell", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> KING_SCALES =
+         ITEMS.register("king_scales", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> KITAHIROSHIMA_EGG =
+         ITEMS.register("kitahiroshima_egg", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> LOOTING_BADGE =
+         ITEMS.register("looting_badge", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> MOOSHROOM_BONE =
+         ITEMS.register("mooshroom_bone", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> NORMAL_SCALES =
+         ITEMS.register("normal_scales", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<SwordItem> PIGLIN_HORN  = ITEMS.register("piglin_horn", () -> new SwordItem(
+        Tiers.WOOD, 19, -2.4F, new Item.Properties().durability(2)));
+
+    public static final RegistryObject<Item> PILLAGER_BADGE =
+         ITEMS.register("pillager_badge", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<SwordItem> RAVAGER_HORN  = ITEMS.register("ravager_horn", () -> new SwordItem(
+        Tiers.WOOD, 19, -2.4F, new Item.Properties().durability(2)));
+
+    public static final RegistryObject<Item> SPIDER_FEET_L =
+         ITEMS.register("spider_feet_l", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> SPIDER_FEET_S =
+         ITEMS.register("spider_feet_s", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> STRIDER_HORN =
+         ITEMS.register("strider_horn", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> WANTED_I =
+         ITEMS.register("wanted_i", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> WANTED_II =
+         ITEMS.register("wanted_ii", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> WANTED_III =
+         ITEMS.register("wanted_iii", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> WANTED_IV =
+         ITEMS.register("wanted_iv", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> WITCH_BADGE =
+         ITEMS.register("witch_badge", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> WORF_TEETH =
+         ITEMS.register("worf_teeth", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> YAHAHA =
+         ITEMS.register("yahaha", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<SwordItem> ZOMBIE_BONE  = ITEMS.register("zombie_bone", () -> new SwordItem(
+        Tiers.WOOD, 9, -2.4F, new Item.Properties().durability(1)));
+
+    public static final RegistryObject<SwordItem> ZOMBIE_HOGLIN_HORN  = ITEMS.register("zombie_hoglin_horn", () -> new SwordItem(
+        Tiers.WOOD, 29, -2.4F, new Item.Properties().durability(3)));
+
+    public static final RegistryObject<SwordItem> ZOMBIE_PIGLIN_HORN  = ITEMS.register("zombie_piglin_horn", () -> new SwordItem(
+        Tiers.WOOD, 29, -2.4F, new Item.Properties().durability(3)));
+
 
     public Toycraft()
     {
@@ -491,6 +614,7 @@ public class Toycraft
     private void addCreative(CreativeModeTabEvent.BuildContents event)
     {
         if (event.getTab() == CreativeModeTabs.TOOLS_AND_UTILITIES){
+            //魂石
             event.accept(YURUI);
             event.accept(CHIJIAO);
             event.accept(CHUNXIAOYI);
@@ -510,18 +634,16 @@ public class Toycraft
             event.accept(CLARA);
             event.accept(LITOUREN);
             event.accept(YUI);
+        }
 
-            event.accept(RUPEES_1);
-            event.accept(RUPEES_2);
-            event.accept(RUPEES_3);
-            event.accept(RUPEES_4);
-            event.accept(RUPEES_5);
-
+        if (event.getTab() == CreativeModeTabs.COMBAT){
+            //特殊武器
             event.accept(ICECREAM);
             event.accept(ICECREAM_2);
             event.accept(ICECREAM_3);
             event.accept(TANGHULU);
 
+            //武器
             event.accept(AA_TRAVELER_SWORD_W);
             event.accept(AB_SOLDIER_SWORD_W);
             event.accept(B_KNIGHT_SWORD_W);
@@ -630,8 +752,58 @@ public class Toycraft
             event.accept(C_WARY_AXE_P);
             event.accept(D_ZORANA_GREATSWORD_P);
             event.accept(E_GRAVEL_HAMMER_P);
+        }
 
 
+        if (event.getTab() == CreativeModeTabs.INGREDIENTS){
+            //金钱
+            event.accept(RUPEES_1);
+            event.accept(RUPEES_2);
+            event.accept(RUPEES_3);
+            event.accept(RUPEES_4);
+            event.accept(RUPEES_5);
+
+            //怪物材料
+            event.accept(AD_INSECT_SHELL);
+            event.accept(ASSAULT_KNIFE);
+            event.accept(BAT_EYE);
+            event.accept(BEE_NEEDLE);
+            event.accept(CAMEL_MILK);
+            event.accept(CHUCHU_GUM);
+            event.accept(DARK_SCALES);
+            event.accept(DEVIL_TOUCH);
+            event.accept(DRAGON_SCALES);
+            event.accept(EVOKER_BADGE);
+            event.accept(FROG_CORNER);
+            event.accept(GOAT_MILK);
+            event.accept(GUARDIAN_BADGE);
+            event.accept(HOGLIN_HORN);
+            event.accept(INSECT_SHELL);
+            event.accept(KING_SCALES);
+            event.accept(KITAHIROSHIMA_EGG);
+            event.accept(LOOTING_BADGE);
+            event.accept(MOOSHROOM_BONE);
+            event.accept(NORMAL_SCALES);
+            event.accept(PIGLIN_HORN);
+            event.accept(PILLAGER_BADGE);
+            event.accept(RAVAGER_HORN);
+            event.accept(SPIDER_FEET_L);
+            event.accept(SPIDER_FEET_S);
+            event.accept(STRIDER_HORN);
+            event.accept(WANTED_I);
+            event.accept(WANTED_II);
+            event.accept(WANTED_III);
+            event.accept(WANTED_IV);
+            event.accept(WITCH_BADGE);
+            event.accept(WORF_TEETH);
+            event.accept(YAHAHA);
+            event.accept(ZOMBIE_BONE);
+            event.accept(ZOMBIE_HOGLIN_HORN);
+            event.accept(ZOMBIE_PIGLIN_HORN);
+            
+            event.accept(PENDANT_COURAGE);
+            event.accept(PENDANT_POWER);
+            event.accept(PENDANT_WISDOM);
         }
 
     }

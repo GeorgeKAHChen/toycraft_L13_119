@@ -6,11 +6,11 @@ os.system("mkdir ./output")
 
 
 # =====================================================================
-string_arr = ["e_zonai_sword", "aa_traveler_axe", "aa_traveler_dagger", "aa_traveler_sword", "ab_soldier_dagger", "ab_soldier_greatsword", "ab_soldier_sword", "b_knight_sword", "b_mori_axe", "b_mori_dagger", "c_guardian_sword", "c_wary_axe", "c_wary_dagger", "d_royal_dagger", "d_royal_sword", "d_zorana_greatsword", "e_gravel_hammer", "e_queen_dagger" ]
+string_arr = ["pendant_courage", "pendant_power", "pendant_wisdom"]
 # =====================================================================
 mark = "@@@"
 default_json = ['{\n  "parent": "item/generated",\n  "textures": {\n    "layer0": "toycraft:item/', mark,'"\n  }\n}\n']
-file_name_arr = [mark, "_p", ".json"]
+file_name_arr = [mark, ".json"]
 # =====================================================================
 
 
