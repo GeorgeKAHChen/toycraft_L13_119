@@ -6,3 +6,5 @@ c:
 
 s:
 	./gradlew runServer
+
+b: main
