@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rupees_3",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "toycraft:rupees_2"
+    }
+  },
+  "result": {
+    "item": "toycraft:rupees_3"
+  }
+}
