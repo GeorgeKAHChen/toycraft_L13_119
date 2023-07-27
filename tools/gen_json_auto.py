@@ -6,7 +6,7 @@ os.system("mkdir ./output")
 
 
 # =====================================================================
-string_arr = ["pendant_courage", "pendant_power", "pendant_wisdom"]
+string_arr = ["a_piece_sword", "b_piece_sword", "c_piece_sword", "d_piece_sword", "e_piece_sword"]
 # =====================================================================
 mark = "@@@"
 default_json = ['{\n  "parent": "item/generated",\n  "textures": {\n    "layer0": "toycraft:item/', mark,'"\n  }\n}\n']

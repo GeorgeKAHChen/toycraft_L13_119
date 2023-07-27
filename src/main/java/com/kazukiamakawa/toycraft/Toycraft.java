@@ -131,333 +131,333 @@ public class Toycraft
 
     // 武器
     public static final RegistryObject<SwordItem> ICECREAM = ITEMS.register("icecream", () -> new SwordItem(Tiers.WOOD, 1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance)));
-    public static final RegistryObject<SwordItem> ICECREAM_2 = ITEMS.register("icecream_2", () -> new SwordItem(Tiers.WOOD, 11, -2.4F, new Item.Properties().tab(ModCreativeTab.instance)));
-    public static final RegistryObject<SwordItem> ICECREAM_3 = ITEMS.register("icecream_3", () -> new SwordItem(Tiers.WOOD, 13, -2.4F, new Item.Properties().tab(ModCreativeTab.instance)));
-    public static final RegistryObject<SwordItem> TANGHULU = ITEMS.register("tanghulu", () -> new SwordItem(Tiers.WOOD, 5, -1F, new Item.Properties().tab(ModCreativeTab.instance)));
+    public static final RegistryObject<SwordItem> ICECREAM_2 = ITEMS.register("icecream_2", () -> new SwordItem(Tiers.WOOD, 12, -2.4F, new Item.Properties().tab(ModCreativeTab.instance)));
+    public static final RegistryObject<SwordItem> ICECREAM_3 = ITEMS.register("icecream_3", () -> new SwordItem(Tiers.WOOD, 14, -2.4F, new Item.Properties().tab(ModCreativeTab.instance)));
+    public static final RegistryObject<SwordItem> TANGHULU = ITEMS.register("tanghulu", () -> new SwordItem(Tiers.WOOD, 5, 0F, new Item.Properties().tab(ModCreativeTab.instance)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_SWORD_W  = ITEMS.register("aa_traveler_sword_w", () -> new SwordItem(
-        Tiers.WOOD, 1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 1+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_SWORD_W  = ITEMS.register("ab_soldier_sword_w", () -> new SwordItem(
-        Tiers.WOOD, 1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 1+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> B_KNIGHT_SWORD_W  = ITEMS.register("b_knight_sword_w", () -> new SwordItem(
-        Tiers.WOOD, 2, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 2+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> C_GUARDIAN_SWORD_W  = ITEMS.register("c_guardian_sword_w", () -> new SwordItem(
-        Tiers.WOOD, 3, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 3+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_SWORD_W  = ITEMS.register("d_royal_sword_w", () -> new SwordItem(
-        Tiers.WOOD, 4, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
+        Tiers.WOOD, 4+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
     
     public static final RegistryObject<SwordItem> E_ZONAI_SWORD_W  = ITEMS.register("e_zonai_sword_w", () -> new SwordItem(
-        Tiers.WOOD, 5, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(160)));
+        Tiers.WOOD, 5+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(160)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_DAGGER_W  = ITEMS.register("aa_traveler_dagger_w", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(5)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(5)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_DAGGER_W  = ITEMS.register("ab_soldier_dagger_w", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(5)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(5)));
     
     public static final RegistryObject<SwordItem> B_MORI_DAGGER_W  = ITEMS.register("b_mori_dagger_w", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> C_WARY_DAGGER_W  = ITEMS.register("c_wary_dagger_w", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_DAGGER_W  = ITEMS.register("d_royal_dagger_w", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(30)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(30)));
     
     public static final RegistryObject<SwordItem> E_QUEEN_DAGGER_W  = ITEMS.register("e_queen_dagger_w", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_AXE_W  = ITEMS.register("aa_traveler_axe_w", () -> new SwordItem(
-        Tiers.WOOD, 3, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 3+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_GREATSWORD_W = ITEMS.register("ab_soldier_greatsword_w", () -> new SwordItem(
-        Tiers.WOOD, 4, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 4+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> B_MORI_AXE_W  = ITEMS.register("b_mori_axe_w", () -> new SwordItem(
-        Tiers.WOOD, 5, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
+        Tiers.WOOD, 5+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
     
     public static final RegistryObject<SwordItem> C_WARY_AXE_W  = ITEMS.register("c_wary_axe_w", () -> new SwordItem(
-        Tiers.WOOD, 6, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
+        Tiers.WOOD, 6+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
     
     public static final RegistryObject<SwordItem> D_ZORANA_GREATSWORD_W  = ITEMS.register("d_zorana_greatsword_w", () -> new SwordItem(
-        Tiers.WOOD, 7, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(200)));
+        Tiers.WOOD, 7+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(200)));
     
     public static final RegistryObject<SwordItem> E_GRAVEL_HAMMER_W  = ITEMS.register("e_gravel_hammer_w", () -> new SwordItem(
-        Tiers.WOOD, 8, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(320)));
+        Tiers.WOOD, 8+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(320)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_SWORD_G  = ITEMS.register("aa_traveler_sword_g", () -> new SwordItem(
-        Tiers.WOOD, 1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 1+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_SWORD_G  = ITEMS.register("ab_soldier_sword_g", () -> new SwordItem(
-        Tiers.WOOD, 2, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 2+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> B_KNIGHT_SWORD_G  = ITEMS.register("b_knight_sword_g", () -> new SwordItem(
-        Tiers.WOOD, 3, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 3+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> C_GUARDIAN_SWORD_G  = ITEMS.register("c_guardian_sword_g", () -> new SwordItem(
-        Tiers.WOOD, 4, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 4+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_SWORD_G  = ITEMS.register("d_royal_sword_g", () -> new SwordItem(
-        Tiers.WOOD, 5, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
+        Tiers.WOOD, 5+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
     
     public static final RegistryObject<SwordItem> E_ZONAI_SWORD_G  = ITEMS.register("e_zonai_sword_g", () -> new SwordItem(
-        Tiers.WOOD, 6, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(160)));
+        Tiers.WOOD, 6+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(160)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_DAGGER_G  = ITEMS.register("aa_traveler_dagger_g", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_DAGGER_G  = ITEMS.register("ab_soldier_dagger_g", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> B_MORI_DAGGER_G  = ITEMS.register("b_mori_dagger_g", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(30)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(30)));
     
     public static final RegistryObject<SwordItem> C_WARY_DAGGER_G  = ITEMS.register("c_wary_dagger_g", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_DAGGER_G  = ITEMS.register("d_royal_dagger_g", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> E_QUEEN_DAGGER_G  = ITEMS.register("e_queen_dagger_g", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_AXE_G  = ITEMS.register("aa_traveler_axe_g", () -> new SwordItem(
-        Tiers.WOOD, 3, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
+        Tiers.WOOD, 3+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_GREATSWORD_G  = ITEMS.register("ab_soldier_greatsword_g", () -> new SwordItem(
-        Tiers.WOOD, 5, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 5+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> B_MORI_AXE_G  = ITEMS.register("b_mori_axe_g", () -> new SwordItem(
-        Tiers.WOOD, 6, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
+        Tiers.WOOD, 6+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
     
     public static final RegistryObject<SwordItem> C_WARY_AXE_G  = ITEMS.register("c_wary_axe_g", () -> new SwordItem(
-        Tiers.WOOD, 7, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
+        Tiers.WOOD, 7+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
     
     public static final RegistryObject<SwordItem> D_ZORANA_GREATSWORD_G  = ITEMS.register("d_zorana_greatsword_g", () -> new SwordItem(
-        Tiers.WOOD, 8, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(200)));
+        Tiers.WOOD, 8+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(200)));
     
     public static final RegistryObject<SwordItem> E_GRAVEL_HAMMER_G  = ITEMS.register("e_gravel_hammer_g", () -> new SwordItem(
-        Tiers.WOOD, 9, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(320)));
+        Tiers.WOOD, 9+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(320)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_SWORD_B  = ITEMS.register("aa_traveler_sword_b", () -> new SwordItem(
-        Tiers.WOOD, 1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 1+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_SWORD_B  = ITEMS.register("ab_soldier_sword_b", () -> new SwordItem(
-        Tiers.WOOD, 3, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 3+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> B_KNIGHT_SWORD_B  = ITEMS.register("b_knight_sword_b", () -> new SwordItem(
-        Tiers.WOOD, 3, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 3+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> C_GUARDIAN_SWORD_B  = ITEMS.register("c_guardian_sword_b", () -> new SwordItem(
-        Tiers.WOOD, 4, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
+        Tiers.WOOD, 4+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_SWORD_B  = ITEMS.register("d_royal_sword_b", () -> new SwordItem(
-        Tiers.WOOD, 5, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(140)));
+        Tiers.WOOD, 5+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(140)));
     
     public static final RegistryObject<SwordItem> E_ZONAI_SWORD_B  = ITEMS.register("e_zonai_sword_b", () -> new SwordItem(
-        Tiers.WOOD, 6, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(210)));
+        Tiers.WOOD, 6+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(210)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_DAGGER_B  = ITEMS.register("aa_traveler_dagger_b", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(15)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(15)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_DAGGER_B  = ITEMS.register("ab_soldier_dagger_b", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(15)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(15)));
     
     public static final RegistryObject<SwordItem> B_MORI_DAGGER_B  = ITEMS.register("b_mori_dagger_b", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> C_WARY_DAGGER_B  = ITEMS.register("c_wary_dagger_b", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_DAGGER_B  = ITEMS.register("d_royal_dagger_b", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
     
     public static final RegistryObject<SwordItem> E_QUEEN_DAGGER_B  = ITEMS.register("e_queen_dagger_b", () -> new SwordItem(
-        Tiers.WOOD, 3, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
+        Tiers.WOOD, 3, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_AXE_B  = ITEMS.register("aa_traveler_axe_b", () -> new SwordItem(
-        Tiers.WOOD, 3, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 3+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_GREATSWORD_B  = ITEMS.register("ab_soldier_greatsword_b", () -> new SwordItem(
-        Tiers.WOOD, 6, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 6+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> B_MORI_AXE_B  = ITEMS.register("b_mori_axe_b", () -> new SwordItem(
-        Tiers.WOOD, 5, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
+        Tiers.WOOD, 5+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
     
     public static final RegistryObject<SwordItem> C_WARY_AXE_B  = ITEMS.register("c_wary_axe_b", () -> new SwordItem(
-        Tiers.WOOD, 8, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(150)));
+        Tiers.WOOD, 8+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(150)));
     
     public static final RegistryObject<SwordItem> D_ZORANA_GREATSWORD_B  = ITEMS.register("d_zorana_greatsword_b", () -> new SwordItem(
-        Tiers.WOOD, 9, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(240)));
+        Tiers.WOOD, 9+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(240)));
     
     public static final RegistryObject<SwordItem> E_GRAVEL_HAMMER_B  = ITEMS.register("e_gravel_hammer_b", () -> new SwordItem(
-        Tiers.WOOD, 10, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(370)));
+        Tiers.WOOD, 10+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(370)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_SWORD_Y  = ITEMS.register("aa_traveler_sword_y", () -> new SwordItem(
-        Tiers.WOOD, 2, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 2+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_SWORD_Y  = ITEMS.register("ab_soldier_sword_y", () -> new SwordItem(
-        Tiers.WOOD, 4, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 4+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> B_KNIGHT_SWORD_Y  = ITEMS.register("b_knight_sword_y", () -> new SwordItem(
-        Tiers.WOOD, 4, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 4+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> C_GUARDIAN_SWORD_Y  = ITEMS.register("c_guardian_sword_y", () -> new SwordItem(
-        Tiers.WOOD, 5, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
+        Tiers.WOOD, 5+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_SWORD_Y  = ITEMS.register("d_royal_sword_y", () -> new SwordItem(
-        Tiers.WOOD, 6, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(140)));
+        Tiers.WOOD, 6+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(140)));
     
     public static final RegistryObject<SwordItem> E_ZONAI_SWORD_Y  = ITEMS.register("e_zonai_sword_y", () -> new SwordItem(
-        Tiers.WOOD, 7, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(210)));
+        Tiers.WOOD, 7+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(210)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_DAGGER_Y  = ITEMS.register("aa_traveler_dagger_y", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(30)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(30)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_DAGGER_Y  = ITEMS.register("ab_soldier_dagger_y", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> B_MORI_DAGGER_Y  = ITEMS.register("b_mori_dagger_y", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
     
     public static final RegistryObject<SwordItem> C_WARY_DAGGER_Y  = ITEMS.register("c_wary_dagger_y", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_DAGGER_Y  = ITEMS.register("d_royal_dagger_y", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
     
     public static final RegistryObject<SwordItem> E_QUEEN_DAGGER_Y  = ITEMS.register("e_queen_dagger_y", () -> new SwordItem(
-        Tiers.WOOD, 3, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(110)));
+        Tiers.WOOD, 3, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(110)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_AXE_Y  = ITEMS.register("aa_traveler_axe_y", () -> new SwordItem(
-        Tiers.WOOD, 3, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(70)));
+        Tiers.WOOD, 3+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(70)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_GREATSWORD_Y  = ITEMS.register("ab_soldier_greatsword_y", () -> new SwordItem(
-        Tiers.WOOD, 7, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 7+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> B_MORI_AXE_Y  = ITEMS.register("b_mori_axe_y", () -> new SwordItem(
-        Tiers.WOOD, 8, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
+        Tiers.WOOD, 8+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
     
     public static final RegistryObject<SwordItem> C_WARY_AXE_Y  = ITEMS.register("c_wary_axe_y", () -> new SwordItem(
-        Tiers.WOOD, 9, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(150)));
+        Tiers.WOOD, 9+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(150)));
     
     public static final RegistryObject<SwordItem> D_ZORANA_GREATSWORD_Y  = ITEMS.register("d_zorana_greatsword_y", () -> new SwordItem(
-        Tiers.WOOD, 10, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(240)));
+        Tiers.WOOD, 10+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(240)));
     
     public static final RegistryObject<SwordItem> E_GRAVEL_HAMMER_Y  = ITEMS.register("e_gravel_hammer_y", () -> new SwordItem(
-        Tiers.WOOD, 11, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(370)));
+        Tiers.WOOD, 11+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(370)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_SWORD_R  = ITEMS.register("aa_traveler_sword_r", () -> new SwordItem(
-        Tiers.WOOD, 2, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 2+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_SWORD_R  = ITEMS.register("ab_soldier_sword_r", () -> new SwordItem(
-        Tiers.WOOD, 5, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 5+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> B_KNIGHT_SWORD_R  = ITEMS.register("b_knight_sword_r", () -> new SwordItem(
-        Tiers.WOOD, 5, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
+        Tiers.WOOD, 5+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
     
     public static final RegistryObject<SwordItem> C_GUARDIAN_SWORD_R  = ITEMS.register("c_guardian_sword_r", () -> new SwordItem(
-        Tiers.WOOD, 6, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
+        Tiers.WOOD, 6+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_SWORD_R  = ITEMS.register("d_royal_sword_r", () -> new SwordItem(
-        Tiers.WOOD, 7, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(180)));
+        Tiers.WOOD, 7+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(180)));
     
     public static final RegistryObject<SwordItem> E_ZONAI_SWORD_R  = ITEMS.register("e_zonai_sword_r", () -> new SwordItem(
-        Tiers.WOOD, 8, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(260)));
+        Tiers.WOOD, 8+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(260)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_DAGGER_R  = ITEMS.register("aa_traveler_dagger_r", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_DAGGER_R  = ITEMS.register("ab_soldier_dagger_r", () -> new SwordItem(
-        Tiers.WOOD, 1, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 1, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> B_MORI_DAGGER_R  = ITEMS.register("b_mori_dagger_r", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(60)));
     
     public static final RegistryObject<SwordItem> C_WARY_DAGGER_R  = ITEMS.register("c_wary_dagger_r", () -> new SwordItem(
-        Tiers.WOOD, 3, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(65)));
+        Tiers.WOOD, 3, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(65)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_DAGGER_R  = ITEMS.register("d_royal_dagger_r", () -> new SwordItem(
-        Tiers.WOOD, 3, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
+        Tiers.WOOD, 3, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
     
     public static final RegistryObject<SwordItem> E_QUEEN_DAGGER_R  = ITEMS.register("e_queen_dagger_r", () -> new SwordItem(
-        Tiers.WOOD, 4, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
+        Tiers.WOOD, 4, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_AXE_R  = ITEMS.register("aa_traveler_axe_r", () -> new SwordItem(
-        Tiers.WOOD, 3, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
+        Tiers.WOOD, 3+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(80)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_GREATSWORD_R  = ITEMS.register("ab_soldier_greatsword_r", () -> new SwordItem(
-        Tiers.WOOD, 8, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 8+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> B_MORI_AXE_R  = ITEMS.register("b_mori_axe_r", () -> new SwordItem(
-        Tiers.WOOD, 9, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
+        Tiers.WOOD, 9+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(120)));
     
     public static final RegistryObject<SwordItem> C_WARY_AXE_R  = ITEMS.register("c_wary_axe_r", () -> new SwordItem(
-        Tiers.WOOD, 10, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(180)));
+        Tiers.WOOD, 10+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(180)));
     
     public static final RegistryObject<SwordItem> D_ZORANA_GREATSWORD_R  = ITEMS.register("d_zorana_greatsword_r", () -> new SwordItem(
-        Tiers.WOOD, 11, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(280)));
+        Tiers.WOOD, 11+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(280)));
     
     public static final RegistryObject<SwordItem> E_GRAVEL_HAMMER_R  = ITEMS.register("e_gravel_hammer_r", () -> new SwordItem(
-        Tiers.WOOD, 12, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(420)));
+        Tiers.WOOD, 12+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(420)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_SWORD_P  = ITEMS.register("aa_traveler_sword_p", () -> new SwordItem(
-        Tiers.WOOD, 3, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 3+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_SWORD_P  = ITEMS.register("ab_soldier_sword_p", () -> new SwordItem(
-        Tiers.WOOD, 6, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
+        Tiers.WOOD, 6+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(10)));
     
     public static final RegistryObject<SwordItem> B_KNIGHT_SWORD_P  = ITEMS.register("b_knight_sword_p", () -> new SwordItem(
-        Tiers.WOOD, 6, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
+        Tiers.WOOD, 6+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(100)));
     
     public static final RegistryObject<SwordItem> C_GUARDIAN_SWORD_P  = ITEMS.register("c_guardian_sword_p", () -> new SwordItem(
-        Tiers.WOOD, 7, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(150)));
+        Tiers.WOOD, 7+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(150)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_SWORD_P  = ITEMS.register("d_royal_sword_p", () -> new SwordItem(
-        Tiers.WOOD, 8, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(220)));
+        Tiers.WOOD, 8+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(220)));
     
     public static final RegistryObject<SwordItem> E_ZONAI_SWORD_P  = ITEMS.register("e_zonai_sword_p", () -> new SwordItem(
-        Tiers.WOOD, 9, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(310)));
+        Tiers.WOOD, 9+1, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(310)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_DAGGER_P  = ITEMS.register("aa_traveler_dagger_p", () -> new SwordItem(
-        Tiers.WOOD, 0, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
+        Tiers.WOOD, 0, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(50)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_DAGGER_P  = ITEMS.register("ab_soldier_dagger_p", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(20)));
     
     public static final RegistryObject<SwordItem> B_MORI_DAGGER_P  = ITEMS.register("b_mori_dagger_p", () -> new SwordItem(
-        Tiers.WOOD, 2, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(70)));
+        Tiers.WOOD, 2, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(70)));
     
     public static final RegistryObject<SwordItem> C_WARY_DAGGER_P  = ITEMS.register("c_wary_dagger_p", () -> new SwordItem(
-        Tiers.WOOD, 3, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(70)));
+        Tiers.WOOD, 3, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(70)));
     
     public static final RegistryObject<SwordItem> D_ROYAL_DAGGER_P  = ITEMS.register("d_royal_dagger_p", () -> new SwordItem(
-        Tiers.WOOD, 4, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(110)));
+        Tiers.WOOD, 4, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(110)));
     
     public static final RegistryObject<SwordItem> E_QUEEN_DAGGER_P  = ITEMS.register("e_queen_dagger_p", () -> new SwordItem(
-        Tiers.WOOD, 5, -1F, new Item.Properties().tab(ModCreativeTab.instance).durability(125)));
+        Tiers.WOOD, 5, 0F, new Item.Properties().tab(ModCreativeTab.instance).durability(125)));
     
     public static final RegistryObject<SwordItem> AA_TRAVELER_AXE_P  = ITEMS.register("aa_traveler_axe_p", () -> new SwordItem(
-        Tiers.WOOD, 3, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
+        Tiers.WOOD, 3+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(90)));
     
     public static final RegistryObject<SwordItem> AB_SOLDIER_GREATSWORD_P  = ITEMS.register("ab_soldier_greatsword_p", () -> new SwordItem(
-        Tiers.WOOD, 9, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
+        Tiers.WOOD, 9+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(40)));
     
     public static final RegistryObject<SwordItem> B_MORI_AXE_P  = ITEMS.register("b_mori_axe_p", () -> new SwordItem(
-        Tiers.WOOD, 10, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(140)));
+        Tiers.WOOD, 10+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(140)));
     
     public static final RegistryObject<SwordItem> C_WARY_AXE_P  = ITEMS.register("c_wary_axe_p", () -> new SwordItem(
-        Tiers.WOOD, 11, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(210)));
+        Tiers.WOOD, 11+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(210)));
     
     public static final RegistryObject<SwordItem> D_ZORANA_GREATSWORD_P  = ITEMS.register("d_zorana_greatsword_p", () -> new SwordItem(
-        Tiers.WOOD, 12, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(320)));
+        Tiers.WOOD, 12+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(320)));
     
     public static final RegistryObject<SwordItem> E_GRAVEL_HAMMER_P  = ITEMS.register("e_gravel_hammer_p", () -> new SwordItem(
-        Tiers.WOOD, 13, -3F, new Item.Properties().tab(ModCreativeTab.instance).durability(470)));
+        Tiers.WOOD, 13+3, -3.6F, new Item.Properties().tab(ModCreativeTab.instance).durability(470)));
 
     // 金钱
     public static final RegistryObject<Item> RUPEES_1 = 
@@ -474,6 +474,22 @@ public class Toycraft
 
     public static final RegistryObject<Item> RUPEES_5 = 
         ITEMS.register("rupees_5", () -> new Item(new Item.Properties().tab(ModCreativeTab.instance)));
+
+    //武器碎片
+    public static final RegistryObject<Item> A_PIECE_SWORD = 
+        ITEMS.register("a_piece_sword", () -> new Item(new Item.Properties().tab(ModCreativeTab.instance)));
+
+    public static final RegistryObject<Item> B_PIECE_SWORD = 
+        ITEMS.register("b_piece_sword", () -> new Item(new Item.Properties().tab(ModCreativeTab.instance)));
+
+    public static final RegistryObject<Item> C_PIECE_SWORD = 
+        ITEMS.register("c_piece_sword", () -> new Item(new Item.Properties().tab(ModCreativeTab.instance)));
+
+    public static final RegistryObject<Item> D_PIECE_SWORD = 
+        ITEMS.register("d_piece_sword", () -> new Item(new Item.Properties().tab(ModCreativeTab.instance)));    
+
+    public static final RegistryObject<Item> E_PIECE_SWORD = 
+        ITEMS.register("e_piece_sword", () -> new Item(new Item.Properties().tab(ModCreativeTab.instance)));
 
     // 怪物材料
     public static final RegistryObject<Item> AD_INSECT_SHELL =
