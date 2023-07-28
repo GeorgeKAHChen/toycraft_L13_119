@@ -1,6 +1,6 @@
 main:
 	./gradlew build
-
+	echo "123"
 c:
 	./gradlew runClient
 
