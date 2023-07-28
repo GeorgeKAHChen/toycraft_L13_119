@@ -1,0 +1,540 @@
+craftingTable.addShaped(
+    "aa_traveler_axe_b_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_axe_b>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_axe_g_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_axe_g>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_axe_p_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_axe_p>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_axe_r_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_axe_r>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_axe_w_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_axe_w>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_axe_y_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_axe_y>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_dagger_b_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_dagger_b>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_dagger_g_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_dagger_g>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_dagger_p_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_dagger_p>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_dagger_r_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_dagger_r>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_dagger_w_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_dagger_w>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_dagger_y_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_dagger_y>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_sword_b_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_sword_b>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_sword_g_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_sword_g>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_sword_p_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_sword_p>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_sword_r_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_sword_r>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_sword_w_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_sword_w>]]
+);
+craftingTable.addShaped(
+    "aa_traveler_sword_y_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:aa_traveler_sword_y>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_dagger_b_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_dagger_b>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_dagger_g_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_dagger_g>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_dagger_p_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_dagger_p>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_dagger_r_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_dagger_r>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_dagger_w_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_dagger_w>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_dagger_y_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_dagger_y>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_greatsword_b_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_greatsword_b>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_greatsword_g_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_greatsword_g>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_greatsword_p_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_greatsword_p>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_greatsword_r_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_greatsword_r>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_greatsword_w_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_greatsword_w>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_greatsword_y_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_greatsword_y>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_sword_b_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_sword_b>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_sword_g_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_sword_g>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_sword_p_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_sword_p>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_sword_r_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_sword_r>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_sword_w_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_sword_w>]]
+);
+craftingTable.addShaped(
+    "ab_soldier_sword_y_a_piece_sword",
+    <item:toycraft:a_piece_sword>, 
+    [[<item:toycraft:ab_soldier_sword_y>]]
+);
+craftingTable.addShaped(
+    "b_knight_sword_b_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_knight_sword_b>]]
+);
+craftingTable.addShaped(
+    "b_knight_sword_g_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_knight_sword_g>]]
+);
+craftingTable.addShaped(
+    "b_knight_sword_p_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_knight_sword_p>]]
+);
+craftingTable.addShaped(
+    "b_knight_sword_r_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_knight_sword_r>]]
+);
+craftingTable.addShaped(
+    "b_knight_sword_w_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_knight_sword_w>]]
+);
+craftingTable.addShaped(
+    "b_knight_sword_y_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_knight_sword_y>]]
+);
+craftingTable.addShaped(
+    "b_mori_axe_b_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_axe_b>]]
+);
+craftingTable.addShaped(
+    "b_mori_axe_g_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_axe_g>]]
+);
+craftingTable.addShaped(
+    "b_mori_axe_p_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_axe_p>]]
+);
+craftingTable.addShaped(
+    "b_mori_axe_r_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_axe_r>]]
+);
+craftingTable.addShaped(
+    "b_mori_axe_w_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_axe_w>]]
+);
+craftingTable.addShaped(
+    "b_mori_axe_y_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_axe_y>]]
+);
+craftingTable.addShaped(
+    "b_mori_dagger_b_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_dagger_b>]]
+);
+craftingTable.addShaped(
+    "b_mori_dagger_g_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_dagger_g>]]
+);
+craftingTable.addShaped(
+    "b_mori_dagger_p_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_dagger_p>]]
+);
+craftingTable.addShaped(
+    "b_mori_dagger_r_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_dagger_r>]]
+);
+craftingTable.addShaped(
+    "b_mori_dagger_w_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_dagger_w>]]
+);
+craftingTable.addShaped(
+    "b_mori_dagger_y_b_piece_sword",
+    <item:toycraft:b_piece_sword>, 
+    [[<item:toycraft:b_mori_dagger_y>]]
+);
+craftingTable.addShaped(
+    "c_guardian_sword_b_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_guardian_sword_b>]]
+);
+craftingTable.addShaped(
+    "c_guardian_sword_g_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_guardian_sword_g>]]
+);
+craftingTable.addShaped(
+    "c_guardian_sword_p_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_guardian_sword_p>]]
+);
+craftingTable.addShaped(
+    "c_guardian_sword_r_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_guardian_sword_r>]]
+);
+craftingTable.addShaped(
+    "c_guardian_sword_w_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_guardian_sword_w>]]
+);
+craftingTable.addShaped(
+    "c_guardian_sword_y_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_guardian_sword_y>]]
+);
+craftingTable.addShaped(
+    "c_wary_axe_b_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_axe_b>]]
+);
+craftingTable.addShaped(
+    "c_wary_axe_g_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_axe_g>]]
+);
+craftingTable.addShaped(
+    "c_wary_axe_p_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_axe_p>]]
+);
+craftingTable.addShaped(
+    "c_wary_axe_r_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_axe_r>]]
+);
+craftingTable.addShaped(
+    "c_wary_axe_w_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_axe_w>]]
+);
+craftingTable.addShaped(
+    "c_wary_axe_y_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_axe_y>]]
+);
+craftingTable.addShaped(
+    "c_wary_dagger_b_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_dagger_b>]]
+);
+craftingTable.addShaped(
+    "c_wary_dagger_g_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_dagger_g>]]
+);
+craftingTable.addShaped(
+    "c_wary_dagger_p_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_dagger_p>]]
+);
+craftingTable.addShaped(
+    "c_wary_dagger_r_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_dagger_r>]]
+);
+craftingTable.addShaped(
+    "c_wary_dagger_w_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_dagger_w>]]
+);
+craftingTable.addShaped(
+    "c_wary_dagger_y_c_piece_sword",
+    <item:toycraft:c_piece_sword>, 
+    [[<item:toycraft:c_wary_dagger_y>]]
+);
+craftingTable.addShaped(
+    "d_royal_dagger_b_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_dagger_b>]]
+);
+craftingTable.addShaped(
+    "d_royal_dagger_g_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_dagger_g>]]
+);
+craftingTable.addShaped(
+    "d_royal_dagger_p_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_dagger_p>]]
+);
+craftingTable.addShaped(
+    "d_royal_dagger_r_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_dagger_r>]]
+);
+craftingTable.addShaped(
+    "d_royal_dagger_w_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_dagger_w>]]
+);
+craftingTable.addShaped(
+    "d_royal_dagger_y_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_dagger_y>]]
+);
+craftingTable.addShaped(
+    "d_royal_sword_b_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_sword_b>]]
+);
+craftingTable.addShaped(
+    "d_royal_sword_g_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_sword_g>]]
+);
+craftingTable.addShaped(
+    "d_royal_sword_p_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_sword_p>]]
+);
+craftingTable.addShaped(
+    "d_royal_sword_r_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_sword_r>]]
+);
+craftingTable.addShaped(
+    "d_royal_sword_w_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_sword_w>]]
+);
+craftingTable.addShaped(
+    "d_royal_sword_y_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_royal_sword_y>]]
+);
+craftingTable.addShaped(
+    "d_zorana_greatsword_b_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_zorana_greatsword_b>]]
+);
+craftingTable.addShaped(
+    "d_zorana_greatsword_g_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_zorana_greatsword_g>]]
+);
+craftingTable.addShaped(
+    "d_zorana_greatsword_p_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_zorana_greatsword_p>]]
+);
+craftingTable.addShaped(
+    "d_zorana_greatsword_r_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_zorana_greatsword_r>]]
+);
+craftingTable.addShaped(
+    "d_zorana_greatsword_w_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_zorana_greatsword_w>]]
+);
+craftingTable.addShaped(
+    "d_zorana_greatsword_y_d_piece_sword",
+    <item:toycraft:d_piece_sword>, 
+    [[<item:toycraft:d_zorana_greatsword_y>]]
+);
+craftingTable.addShaped(
+    "e_gravel_hammer_b_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_gravel_hammer_b>]]
+);
+craftingTable.addShaped(
+    "e_gravel_hammer_g_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_gravel_hammer_g>]]
+);
+craftingTable.addShaped(
+    "e_gravel_hammer_p_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_gravel_hammer_p>]]
+);
+craftingTable.addShaped(
+    "e_gravel_hammer_r_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_gravel_hammer_r>]]
+);
+craftingTable.addShaped(
+    "e_gravel_hammer_w_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_gravel_hammer_w>]]
+);
+craftingTable.addShaped(
+    "e_gravel_hammer_y_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_gravel_hammer_y>]]
+);
+craftingTable.addShaped(
+    "e_queen_dagger_b_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_queen_dagger_b>]]
+);
+craftingTable.addShaped(
+    "e_queen_dagger_g_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_queen_dagger_g>]]
+);
+craftingTable.addShaped(
+    "e_queen_dagger_p_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_queen_dagger_p>]]
+);
+craftingTable.addShaped(
+    "e_queen_dagger_r_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_queen_dagger_r>]]
+);
+craftingTable.addShaped(
+    "e_queen_dagger_w_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_queen_dagger_w>]]
+);
+craftingTable.addShaped(
+    "e_queen_dagger_y_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_queen_dagger_y>]]
+);
+craftingTable.addShaped(
+    "e_zonai_sword_b_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_zonai_sword_b>]]
+);
+craftingTable.addShaped(
+    "e_zonai_sword_g_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_zonai_sword_g>]]
+);
+craftingTable.addShaped(
+    "e_zonai_sword_p_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_zonai_sword_p>]]
+);
+craftingTable.addShaped(
+    "e_zonai_sword_r_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_zonai_sword_r>]]
+);
+craftingTable.addShaped(
+    "e_zonai_sword_w_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_zonai_sword_w>]]
+);
+craftingTable.addShaped(
+    "e_zonai_sword_y_e_piece_sword",
+    <item:toycraft:e_piece_sword>, 
+    [[<item:toycraft:e_zonai_sword_y>]]
+);
