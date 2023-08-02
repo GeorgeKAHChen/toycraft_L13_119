@@ -600,6 +600,51 @@ public class Toycraft
     public static final RegistryObject<SwordItem> ZOMBIE_PIGLIN_HORN  = ITEMS.register("zombie_piglin_horn", () -> new SwordItem(
         Tiers.WOOD, 29, -2.4F, new Item.Properties().tab(ModCreativeTab.instance).durability(3)));
 
+    // 海拉鲁的工具
+    public static final RegistryObject<ShovelItem> A_SHOVEL_LERUHY  = ITEMS.register("a_shover_leruhy", () -> new ShovelItem(
+        Tiers.NETHERITE, -5, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<PickaxeItem> A_PICKAXE_LERUHY  = ITEMS.register("a_pickaxe_leruhy", () -> new PickaxeItem(
+        Tiers.NETHERITE, -5, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<AxeItem> A_AXE_LERUHY  = ITEMS.register("a_axe_leruhy", () -> new AxeItem(
+        Tiers.NETHERITE, -5, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<HoeItem> A_HOE_LERUHY  = ITEMS.register("a_hoe_leruhy", () -> new HoeItem(
+        Tiers.NETHERITE, -5, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+
+    public static final RegistryObject<ShovelItem> B_SHOVEL_LERUHY  = ITEMS.register("b_shover_leruhy", () -> new ShovelItem(
+        Tiers.NETHERITE, -4, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<PickaxeItem> B_PICKAXE_LERUHY  = ITEMS.register("b_pickaxe_leruhy", () -> new PickaxeItem(
+        Tiers.NETHERITE, -4, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<AxeItem> B_AXE_LERUHY  = ITEMS.register("b_axe_leruhy", () -> new AxeItem(
+        Tiers.NETHERITE, -4, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<HoeItem> B_HOE_LERUHY  = ITEMS.register("b_hoe_leruhy", () -> new HoeItem(
+        Tiers.NETHERITE, -4, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+
+    public static final RegistryObject<ShovelItem> C_SHOVEL_LERUHY  = ITEMS.register("c_shover_leruhy", () -> new ShovelItem(
+        Tiers.NETHERITE, -3, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<PickaxeItem> C_PICKAXE_LERUHY  = ITEMS.register("c_pickaxe_leruhy", () -> new PickaxeItem(
+        Tiers.NETHERITE, -3, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<AxeItem> C_AXE_LERUHY  = ITEMS.register("c_axe_leruhy", () -> new AxeItem(
+        Tiers.NETHERITE, -3, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<HoeItem> C_HOE_LERUHY  = ITEMS.register("c_hoe_leruhy", () -> new HoeItem(
+        Tiers.NETHERITE, -3, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+
+    public static final RegistryObject<ShovelItem> D_SHOVEL_LERUHY  = ITEMS.register("d_shover_leruhy", () -> new ShovelItem(
+        Tiers.NETHERITE, -2, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<PickaxeItem> D_PICKAXE_LERUHY  = ITEMS.register("d_pickaxe_leruhy", () -> new PickaxeItem(
+        Tiers.NETHERITE, -2, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<AxeItem> D_AXE_LERUHY  = ITEMS.register("d_axe_leruhy", () -> new AxeItem(
+        Tiers.NETHERITE, -2, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<HoeItem> D_HOE_LERUHY  = ITEMS.register("d_hoe_leruhy", () -> new HoeItem(
+        Tiers.NETHERITE, -2, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+
+    public static final RegistryObject<ShovelItem> E_SHOVEL_LERUHY  = ITEMS.register("e_shover_leruhy", () -> new ShovelItem(
+        Tiers.NETHERITE, -1, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<PickaxeItem> E_PICKAXE_LERUHY  = ITEMS.register("e_pickaxe_leruhy", () -> new PickaxeItem(
+        Tiers.NETHERITE, -1, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<AxeItem> E_AXE_LERUHY  = ITEMS.register("e_axe_leruhy", () -> new AxeItem(
+        Tiers.NETHERITE, -1, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
+    public static final RegistryObject<HoeItem> E_HOE_LERUHY  = ITEMS.register("e_hoe_leruhy", () -> new HoeItem(
+        Tiers.NETHERITE, -1, -3.99F, new Item.Properties().tab(ModCreativeTab.instance).durability(1024)));
 
     public static class ModCreativeTab extends CreativeModeTab {
         public static final ModCreativeTab instance = new ModCreativeTab(CreativeModeTab.TABS.length, "toycraft_survival");
