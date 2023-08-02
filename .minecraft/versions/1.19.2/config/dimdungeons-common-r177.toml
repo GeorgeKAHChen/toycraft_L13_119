@@ -24,8 +24,8 @@
 	basicEnemySet2 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
 	advancedEnemySet1 = ["minecraft:pillager", "minecraft:skeleton", "minecraft:stray", "minecraft:blaze"]
 	advancedEnemySet2 = ["minecraft:wither_skeleton", "minecraft:hoglin", "minecraft:vindicator", "minecraft:witch"]
-	basicEnemyHealthScaling = 1.0
-	advancedEnemyHealthScaling = 2.0
+	basicEnemyHealthScaling = 10.0
+	advancedEnemyHealthScaling = 20.0
 	#The number of themes to expect in the common config.
 	numberOfThemes = 3
 
@@ -39,7 +39,7 @@
 	themeEnds1 = [["dimdungeons:theme1_end1"], ["dimdungeons:theme1_end2"], ["dimdungeons:theme1_end3"], ["dimdungeons:theme1_end4"], ["dimdungeons:theme1_end5"], ["dimdungeons:theme1_end6"]]
 	themeEnemySet1_1 = ["minecraft:skeleton", "minecraft:piglin", "minecraft:blaze"]
 	themeEnemySet2_1 = ["minecraft:wither_skeleton", "minecraft:blaze", "minecraft:wither_skeleton", "minecraft:blaze", "minecraft:hoglin", "minecraft:piglin_brute"]
-	themeEnemyHealthScaling1 = 1.0
+	themeEnemyHealthScaling1 = 20.0
 	themeDungeonSize1 = 14
 
 #Settings for Theme 2
@@ -52,7 +52,7 @@
 	themeEnds2 = [["dimdungeons:theme2_end1"]]
 	themeEnemySet1_2 = ["minecraft:husk", "minecraft:pillager", "minecraft:magma_cube"]
 	themeEnemySet2_2 = ["minecraft:wither_skeleton", "minecraft:blaze", "minecraft:wither_skeleton", "minecraft:blaze"]
-	themeEnemyHealthScaling2 = 1.0
+	themeEnemyHealthScaling2 = 20.0
 	themeDungeonSize2 = 14
 
 #Settings for Theme 3
@@ -65,7 +65,7 @@
 	themeEnds3 = [["dimdungeons:sewers_bossroom_01", "dimdungeons:sewers_bossroom_02", "dimdungeons:sewers_bossroom_03", "dimdungeons:sewers_finalboss_01vf", "dimdungeons:sewers_bossroom_04", "dimdungeons:sewers_bossroom_05", "dimdungeons:sewers_bossroom_06"]]
 	themeEnemySet1_3 = ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager"]
 	themeEnemySet2_3 = ["minecraft:slime"]
-	themeEnemyHealthScaling3 = 1.0
+	themeEnemyHealthScaling3 = 20.0
 	themeDungeonSize3 = 14
 
 #Settings for Theme 4
@@ -78,7 +78,7 @@
 	themeEnds4 = []
 	themeEnemySet1_4 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_4 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling4 = 1.0
+	themeEnemyHealthScaling4 = 20.0
 	themeDungeonSize4 = 14
 
 #Settings for Theme 5
@@ -91,7 +91,7 @@
 	themeEnds5 = []
 	themeEnemySet1_5 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_5 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling5 = 1.0
+	themeEnemyHealthScaling5 = 20.0
 	themeDungeonSize5 = 14
 
 #Settings for Theme 6
@@ -104,7 +104,7 @@
 	themeEnds6 = []
 	themeEnemySet1_6 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_6 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling6 = 1.0
+	themeEnemyHealthScaling6 = 20.0
 	themeDungeonSize6 = 14
 
 #Settings for Theme 7
@@ -117,7 +117,7 @@
 	themeEnds7 = []
 	themeEnemySet1_7 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_7 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling7 = 1.0
+	themeEnemyHealthScaling7 = 20.0
 	themeDungeonSize7 = 14
 
 #Settings for Theme 8
@@ -130,7 +130,7 @@
 	themeEnds8 = []
 	themeEnemySet1_8 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_8 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling8 = 1.0
+	themeEnemyHealthScaling8 = 20.0
 	themeDungeonSize8 = 14
 
 #Settings for Theme 9
@@ -143,7 +143,7 @@
 	themeEnds9 = []
 	themeEnemySet1_9 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_9 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling9 = 1.0
+	themeEnemyHealthScaling9 = 20.0
 	themeDungeonSize9 = 14
 
 #Settings for Theme 10
@@ -156,7 +156,7 @@
 	themeEnds10 = []
 	themeEnemySet1_10 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_10 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling10 = 1.0
+	themeEnemyHealthScaling10 = 20.0
 	themeDungeonSize10 = 14
 
 #Settings for Theme 11
@@ -169,7 +169,7 @@
 	themeEnds11 = []
 	themeEnemySet1_11 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_11 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling11 = 1.0
+	themeEnemyHealthScaling11 = 20.0
 	themeDungeonSize11 = 14
 
 #Settings for Theme 12
@@ -182,7 +182,7 @@
 	themeEnds12 = []
 	themeEnemySet1_12 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_12 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling12 = 1.0
+	themeEnemyHealthScaling12 = 20.0
 	themeDungeonSize12 = 14
 
 #Settings for Theme 13
@@ -195,7 +195,7 @@
 	themeEnds13 = []
 	themeEnemySet1_13 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_13 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling13 = 1.0
+	themeEnemyHealthScaling13 = 20.0
 	themeDungeonSize13 = 14
 
 #Settings for Theme 14
@@ -208,7 +208,7 @@
 	themeEnds14 = []
 	themeEnemySet1_14 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_14 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling14 = 1.0
+	themeEnemyHealthScaling14 = 20.0
 	themeDungeonSize14 = 14
 
 #Settings for Theme 15
@@ -221,7 +221,7 @@
 	themeEnds15 = []
 	themeEnemySet1_15 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_15 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling15 = 1.0
+	themeEnemyHealthScaling15 = 20.0
 	themeDungeonSize15 = 14
 
 #Settings for Theme 16
@@ -234,7 +234,7 @@
 	themeEnds16 = []
 	themeEnemySet1_16 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_16 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling16 = 1.0
+	themeEnemyHealthScaling16 = 20.0
 	themeDungeonSize16 = 14
 
 #Settings for Theme 17
@@ -247,7 +247,7 @@
 	themeEnds17 = []
 	themeEnemySet1_17 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_17 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling17 = 1.0
+	themeEnemyHealthScaling17 = 20.0
 	themeDungeonSize17 = 14
 
 #Settings for Theme 18
@@ -260,7 +260,7 @@
 	themeEnds18 = []
 	themeEnemySet1_18 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_18 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling18 = 1.0
+	themeEnemyHealthScaling18 = 20.0
 	themeDungeonSize18 = 14
 
 #Settings for Theme 19
@@ -273,7 +273,7 @@
 	themeEnds19 = []
 	themeEnemySet1_19 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_19 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling19 = 1.0
+	themeEnemyHealthScaling19 = 20.0
 	themeDungeonSize19 = 14
 
 #Settings for Theme 20
@@ -286,7 +286,7 @@
 	themeEnds20 = []
 	themeEnemySet1_20 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_20 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling20 = 1.0
+	themeEnemyHealthScaling20 = 20.0
 	themeDungeonSize20 = 14
 
 #Settings for Theme 21
@@ -299,7 +299,7 @@
 	themeEnds21 = []
 	themeEnemySet1_21 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_21 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling21 = 1.0
+	themeEnemyHealthScaling21 = 20.0
 	themeDungeonSize21 = 14
 
 #Settings for Theme 22
@@ -312,7 +312,7 @@
 	themeEnds22 = []
 	themeEnemySet1_22 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_22 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling22 = 1.0
+	themeEnemyHealthScaling22 = 20.0
 	themeDungeonSize22 = 14
 
 #Settings for Theme 23
@@ -325,7 +325,7 @@
 	themeEnds23 = []
 	themeEnemySet1_23 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_23 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling23 = 1.0
+	themeEnemyHealthScaling23 = 20.0
 	themeDungeonSize23 = 14
 
 #Settings for Theme 24
@@ -338,7 +338,7 @@
 	themeEnds24 = []
 	themeEnemySet1_24 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_24 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling24 = 1.0
+	themeEnemyHealthScaling24 = 20.0
 	themeDungeonSize24 = 14
 
 #Settings for Theme 25
@@ -351,7 +351,7 @@
 	themeEnds25 = []
 	themeEnemySet1_25 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_25 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling25 = 1.0
+	themeEnemyHealthScaling25 = 20.0
 	themeDungeonSize25 = 14
 
 #Settings for Theme 26
@@ -364,7 +364,7 @@
 	themeEnds26 = []
 	themeEnemySet1_26 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_26 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling26 = 1.0
+	themeEnemyHealthScaling26 = 20.0
 	themeDungeonSize26 = 14
 
 #Settings for Theme 27
@@ -377,7 +377,7 @@
 	themeEnds27 = []
 	themeEnemySet1_27 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_27 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling27 = 1.0
+	themeEnemyHealthScaling27 = 20.0
 	themeDungeonSize27 = 14
 
 #Settings for Theme 28
@@ -390,7 +390,7 @@
 	themeEnds28 = []
 	themeEnemySet1_28 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_28 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling28 = 1.0
+	themeEnemyHealthScaling28 = 20.0
 	themeDungeonSize28 = 14
 
 #Settings for Theme 29
@@ -403,7 +403,7 @@
 	themeEnds29 = []
 	themeEnemySet1_29 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_29 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling29 = 1.0
+	themeEnemyHealthScaling29 = 20.0
 	themeDungeonSize29 = 14
 
 #Settings for Theme 30
@@ -416,7 +416,7 @@
 	themeEnds30 = []
 	themeEnemySet1_30 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_30 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling30 = 1.0
+	themeEnemyHealthScaling30 = 20.0
 	themeDungeonSize30 = 14
 
 #Settings for Theme 31
@@ -429,7 +429,7 @@
 	themeEnds31 = []
 	themeEnemySet1_31 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_31 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling31 = 1.0
+	themeEnemyHealthScaling31 = 20.0
 	themeDungeonSize31 = 14
 
 #Settings for Theme 32
@@ -442,7 +442,7 @@
 	themeEnds32 = []
 	themeEnemySet1_32 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_32 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling32 = 1.0
+	themeEnemyHealthScaling32 = 20.0
 	themeDungeonSize32 = 14
 
 #Settings for Theme 33
@@ -455,7 +455,7 @@
 	themeEnds33 = []
 	themeEnemySet1_33 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_33 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling33 = 1.0
+	themeEnemyHealthScaling33 = 20.0
 	themeDungeonSize33 = 14
 
 #Settings for Theme 34
@@ -468,7 +468,7 @@
 	themeEnds34 = []
 	themeEnemySet1_34 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_34 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling34 = 1.0
+	themeEnemyHealthScaling34 = 20.0
 	themeDungeonSize34 = 14
 
 #Settings for Theme 35
@@ -481,7 +481,7 @@
 	themeEnds35 = []
 	themeEnemySet1_35 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_35 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling35 = 1.0
+	themeEnemyHealthScaling35 = 20.0
 	themeDungeonSize35 = 14
 
 #Settings for Theme 36
@@ -494,7 +494,7 @@
 	themeEnds36 = []
 	themeEnemySet1_36 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_36 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling36 = 1.0
+	themeEnemyHealthScaling36 = 20.0
 	themeDungeonSize36 = 14
 
 #Settings for Theme 37
@@ -507,7 +507,7 @@
 	themeEnds37 = []
 	themeEnemySet1_37 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_37 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling37 = 1.0
+	themeEnemyHealthScaling37 = 20.0
 	themeDungeonSize37 = 14
 
 #Settings for Theme 38
@@ -520,7 +520,7 @@
 	themeEnds38 = []
 	themeEnemySet1_38 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_38 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling38 = 1.0
+	themeEnemyHealthScaling38 = 20.0
 	themeDungeonSize38 = 14
 
 #Settings for Theme 39
@@ -533,7 +533,7 @@
 	themeEnds39 = []
 	themeEnemySet1_39 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_39 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling39 = 1.0
+	themeEnemyHealthScaling39 = 20.0
 	themeDungeonSize39 = 14
 
 #Settings for Theme 40
@@ -546,7 +546,7 @@
 	themeEnds40 = []
 	themeEnemySet1_40 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_40 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling40 = 1.0
+	themeEnemyHealthScaling40 = 20.0
 	themeDungeonSize40 = 14
 
 #Settings for Theme 41
@@ -559,7 +559,7 @@
 	themeEnds41 = []
 	themeEnemySet1_41 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_41 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling41 = 1.0
+	themeEnemyHealthScaling41 = 20.0
 	themeDungeonSize41 = 14
 
 #Settings for Theme 42
@@ -572,7 +572,7 @@
 	themeEnds42 = []
 	themeEnemySet1_42 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_42 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling42 = 1.0
+	themeEnemyHealthScaling42 = 20.0
 	themeDungeonSize42 = 14
 
 #Settings for Theme 43
@@ -585,7 +585,7 @@
 	themeEnds43 = []
 	themeEnemySet1_43 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_43 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling43 = 1.0
+	themeEnemyHealthScaling43 = 20.0
 	themeDungeonSize43 = 14
 
 #Settings for Theme 44
@@ -598,7 +598,7 @@
 	themeEnds44 = []
 	themeEnemySet1_44 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_44 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling44 = 1.0
+	themeEnemyHealthScaling44 = 20.0
 	themeDungeonSize44 = 14
 
 #Settings for Theme 45
@@ -611,7 +611,7 @@
 	themeEnds45 = []
 	themeEnemySet1_45 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_45 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling45 = 1.0
+	themeEnemyHealthScaling45 = 20.0
 	themeDungeonSize45 = 14
 
 #Settings for Theme 46
@@ -624,7 +624,7 @@
 	themeEnds46 = []
 	themeEnemySet1_46 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_46 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling46 = 1.0
+	themeEnemyHealthScaling46 = 20.0
 	themeDungeonSize46 = 14
 
 #Settings for Theme 47
@@ -637,7 +637,7 @@
 	themeEnds47 = []
 	themeEnemySet1_47 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_47 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling47 = 1.0
+	themeEnemyHealthScaling47 = 20.0
 	themeDungeonSize47 = 14
 
 #Settings for Theme 48
@@ -650,7 +650,7 @@
 	themeEnds48 = []
 	themeEnemySet1_48 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_48 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling48 = 1.0
+	themeEnemyHealthScaling48 = 20.0
 	themeDungeonSize48 = 14
 
 #Settings for Theme 49
@@ -663,7 +663,7 @@
 	themeEnds49 = []
 	themeEnemySet1_49 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_49 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling49 = 1.0
+	themeEnemyHealthScaling49 = 20.0
 	themeDungeonSize49 = 14
 
 #Settings for Theme 50
@@ -676,7 +676,7 @@
 	themeEnds50 = []
 	themeEnemySet1_50 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_50 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling50 = 1.0
+	themeEnemyHealthScaling50 = 20.0
 	themeDungeonSize50 = 14
 
 #Settings for Theme 51
@@ -689,7 +689,7 @@
 	themeEnds51 = []
 	themeEnemySet1_51 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_51 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling51 = 1.0
+	themeEnemyHealthScaling51 = 20.0
 	themeDungeonSize51 = 14
 
 #Settings for Theme 52
@@ -702,7 +702,7 @@
 	themeEnds52 = []
 	themeEnemySet1_52 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_52 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling52 = 1.0
+	themeEnemyHealthScaling52 = 20.0
 	themeDungeonSize52 = 14
 
 #Settings for Theme 53
@@ -715,7 +715,7 @@
 	themeEnds53 = []
 	themeEnemySet1_53 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_53 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling53 = 1.0
+	themeEnemyHealthScaling53 = 20.0
 	themeDungeonSize53 = 14
 
 #Settings for Theme 54
@@ -728,7 +728,7 @@
 	themeEnds54 = []
 	themeEnemySet1_54 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_54 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling54 = 1.0
+	themeEnemyHealthScaling54 = 20.0
 	themeDungeonSize54 = 14
 
 #Settings for Theme 55
@@ -741,7 +741,7 @@
 	themeEnds55 = []
 	themeEnemySet1_55 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_55 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling55 = 1.0
+	themeEnemyHealthScaling55 = 20.0
 	themeDungeonSize55 = 14
 
 #Settings for Theme 56
@@ -754,7 +754,7 @@
 	themeEnds56 = []
 	themeEnemySet1_56 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_56 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling56 = 1.0
+	themeEnemyHealthScaling56 = 20.0
 	themeDungeonSize56 = 14
 
 #Settings for Theme 57
@@ -767,7 +767,7 @@
 	themeEnds57 = []
 	themeEnemySet1_57 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_57 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling57 = 1.0
+	themeEnemyHealthScaling57 = 20.0
 	themeDungeonSize57 = 14
 
 #Settings for Theme 58
@@ -780,7 +780,7 @@
 	themeEnds58 = []
 	themeEnemySet1_58 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_58 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling58 = 1.0
+	themeEnemyHealthScaling58 = 20.0
 	themeDungeonSize58 = 14
 
 #Settings for Theme 59
@@ -793,7 +793,7 @@
 	themeEnds59 = []
 	themeEnemySet1_59 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_59 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling59 = 1.0
+	themeEnemyHealthScaling59 = 20.0
 	themeDungeonSize59 = 14
 
 #Settings for Theme 60
@@ -806,7 +806,7 @@
 	themeEnds60 = []
 	themeEnemySet1_60 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_60 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling60 = 1.0
+	themeEnemyHealthScaling60 = 20.0
 	themeDungeonSize60 = 14
 
 #Settings for Theme 61
@@ -819,7 +819,7 @@
 	themeEnds61 = []
 	themeEnemySet1_61 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_61 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling61 = 1.0
+	themeEnemyHealthScaling61 = 20.0
 	themeDungeonSize61 = 14
 
 #Settings for Theme 62
@@ -832,7 +832,7 @@
 	themeEnds62 = []
 	themeEnemySet1_62 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_62 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling62 = 1.0
+	themeEnemyHealthScaling62 = 20.0
 	themeDungeonSize62 = 14
 
 #Settings for Theme 63
@@ -845,7 +845,7 @@
 	themeEnds63 = []
 	themeEnemySet1_63 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_63 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling63 = 1.0
+	themeEnemyHealthScaling63 = 20.0
 	themeDungeonSize63 = 14
 
 #Settings for Theme 64
@@ -858,7 +858,7 @@
 	themeEnds64 = []
 	themeEnemySet1_64 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_64 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling64 = 1.0
+	themeEnemyHealthScaling64 = 20.0
 	themeDungeonSize64 = 14
 
 #Settings for Theme 65
@@ -871,7 +871,7 @@
 	themeEnds65 = []
 	themeEnemySet1_65 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_65 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling65 = 1.0
+	themeEnemyHealthScaling65 = 20.0
 	themeDungeonSize65 = 14
 
 #Settings for Theme 66
@@ -884,7 +884,7 @@
 	themeEnds66 = []
 	themeEnemySet1_66 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_66 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling66 = 1.0
+	themeEnemyHealthScaling66 = 20.0
 	themeDungeonSize66 = 14
 
 #Settings for Theme 67
@@ -897,7 +897,7 @@
 	themeEnds67 = []
 	themeEnemySet1_67 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_67 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling67 = 1.0
+	themeEnemyHealthScaling67 = 20.0
 	themeDungeonSize67 = 14
 
 #Settings for Theme 68
@@ -910,7 +910,7 @@
 	themeEnds68 = []
 	themeEnemySet1_68 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_68 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling68 = 1.0
+	themeEnemyHealthScaling68 = 20.0
 	themeDungeonSize68 = 14
 
 #Settings for Theme 69
@@ -923,7 +923,7 @@
 	themeEnds69 = []
 	themeEnemySet1_69 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_69 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling69 = 1.0
+	themeEnemyHealthScaling69 = 20.0
 	themeDungeonSize69 = 14
 
 #Settings for Theme 70
@@ -936,7 +936,7 @@
 	themeEnds70 = []
 	themeEnemySet1_70 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_70 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling70 = 1.0
+	themeEnemyHealthScaling70 = 20.0
 	themeDungeonSize70 = 14
 
 #Settings for Theme 71
@@ -949,7 +949,7 @@
 	themeEnds71 = []
 	themeEnemySet1_71 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_71 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling71 = 1.0
+	themeEnemyHealthScaling71 = 20.0
 	themeDungeonSize71 = 14
 
 #Settings for Theme 72
@@ -962,7 +962,7 @@
 	themeEnds72 = []
 	themeEnemySet1_72 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_72 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling72 = 1.0
+	themeEnemyHealthScaling72 = 20.0
 	themeDungeonSize72 = 14
 
 #Settings for Theme 73
@@ -975,7 +975,7 @@
 	themeEnds73 = []
 	themeEnemySet1_73 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_73 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling73 = 1.0
+	themeEnemyHealthScaling73 = 20.0
 	themeDungeonSize73 = 14
 
 #Settings for Theme 74
@@ -988,7 +988,7 @@
 	themeEnds74 = []
 	themeEnemySet1_74 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_74 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling74 = 1.0
+	themeEnemyHealthScaling74 = 20.0
 	themeDungeonSize74 = 14
 
 #Settings for Theme 75
@@ -1001,7 +1001,7 @@
 	themeEnds75 = []
 	themeEnemySet1_75 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_75 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling75 = 1.0
+	themeEnemyHealthScaling75 = 20.0
 	themeDungeonSize75 = 14
 
 #Settings for Theme 76
@@ -1014,7 +1014,7 @@
 	themeEnds76 = []
 	themeEnemySet1_76 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_76 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling76 = 1.0
+	themeEnemyHealthScaling76 = 20.0
 	themeDungeonSize76 = 14
 
 #Settings for Theme 77
@@ -1027,7 +1027,7 @@
 	themeEnds77 = []
 	themeEnemySet1_77 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_77 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling77 = 1.0
+	themeEnemyHealthScaling77 = 20.0
 	themeDungeonSize77 = 14
 
 #Settings for Theme 78
@@ -1040,7 +1040,7 @@
 	themeEnds78 = []
 	themeEnemySet1_78 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_78 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling78 = 1.0
+	themeEnemyHealthScaling78 = 20.0
 	themeDungeonSize78 = 14
 
 #Settings for Theme 79
@@ -1053,7 +1053,7 @@
 	themeEnds79 = []
 	themeEnemySet1_79 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_79 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling79 = 1.0
+	themeEnemyHealthScaling79 = 20.0
 	themeDungeonSize79 = 14
 
 #Settings for Theme 80
@@ -1066,7 +1066,7 @@
 	themeEnds80 = []
 	themeEnemySet1_80 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_80 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling80 = 1.0
+	themeEnemyHealthScaling80 = 20.0
 	themeDungeonSize80 = 14
 
 #Settings for Theme 81
@@ -1079,7 +1079,7 @@
 	themeEnds81 = []
 	themeEnemySet1_81 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_81 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling81 = 1.0
+	themeEnemyHealthScaling81 = 20.0
 	themeDungeonSize81 = 14
 
 #Settings for Theme 82
@@ -1092,7 +1092,7 @@
 	themeEnds82 = []
 	themeEnemySet1_82 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_82 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling82 = 1.0
+	themeEnemyHealthScaling82 = 20.0
 	themeDungeonSize82 = 14
 
 #Settings for Theme 83
@@ -1105,7 +1105,7 @@
 	themeEnds83 = []
 	themeEnemySet1_83 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_83 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling83 = 1.0
+	themeEnemyHealthScaling83 = 20.0
 	themeDungeonSize83 = 14
 
 #Settings for Theme 84
@@ -1118,7 +1118,7 @@
 	themeEnds84 = []
 	themeEnemySet1_84 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_84 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling84 = 1.0
+	themeEnemyHealthScaling84 = 20.0
 	themeDungeonSize84 = 14
 
 #Settings for Theme 85
@@ -1131,7 +1131,7 @@
 	themeEnds85 = []
 	themeEnemySet1_85 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_85 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling85 = 1.0
+	themeEnemyHealthScaling85 = 20.0
 	themeDungeonSize85 = 14
 
 #Settings for Theme 86
@@ -1144,7 +1144,7 @@
 	themeEnds86 = []
 	themeEnemySet1_86 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_86 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling86 = 1.0
+	themeEnemyHealthScaling86 = 20.0
 	themeDungeonSize86 = 14
 
 #Settings for Theme 87
@@ -1157,7 +1157,7 @@
 	themeEnds87 = []
 	themeEnemySet1_87 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_87 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling87 = 1.0
+	themeEnemyHealthScaling87 = 20.0
 	themeDungeonSize87 = 14
 
 #Settings for Theme 88
@@ -1170,7 +1170,7 @@
 	themeEnds88 = []
 	themeEnemySet1_88 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_88 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling88 = 1.0
+	themeEnemyHealthScaling88 = 20.0
 	themeDungeonSize88 = 14
 
 #Settings for Theme 89
@@ -1183,7 +1183,7 @@
 	themeEnds89 = []
 	themeEnemySet1_89 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_89 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling89 = 1.0
+	themeEnemyHealthScaling89 = 20.0
 	themeDungeonSize89 = 14
 
 #Settings for Theme 90
@@ -1196,7 +1196,7 @@
 	themeEnds90 = []
 	themeEnemySet1_90 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_90 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling90 = 1.0
+	themeEnemyHealthScaling90 = 20.0
 	themeDungeonSize90 = 14
 
 #Settings for Theme 91
@@ -1209,7 +1209,7 @@
 	themeEnds91 = []
 	themeEnemySet1_91 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_91 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling91 = 1.0
+	themeEnemyHealthScaling91 = 20.0
 	themeDungeonSize91 = 14
 
 #Settings for Theme 92
@@ -1222,7 +1222,7 @@
 	themeEnds92 = []
 	themeEnemySet1_92 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_92 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling92 = 1.0
+	themeEnemyHealthScaling92 = 20.0
 	themeDungeonSize92 = 14
 
 #Settings for Theme 93
@@ -1235,7 +1235,7 @@
 	themeEnds93 = []
 	themeEnemySet1_93 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_93 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling93 = 1.0
+	themeEnemyHealthScaling93 = 20.0
 	themeDungeonSize93 = 14
 
 #Settings for Theme 94
@@ -1248,7 +1248,7 @@
 	themeEnds94 = []
 	themeEnemySet1_94 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_94 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling94 = 1.0
+	themeEnemyHealthScaling94 = 20.0
 	themeDungeonSize94 = 14
 
 #Settings for Theme 95
@@ -1261,7 +1261,7 @@
 	themeEnds95 = []
 	themeEnemySet1_95 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_95 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling95 = 1.0
+	themeEnemyHealthScaling95 = 20.0
 	themeDungeonSize95 = 14
 
 #Settings for Theme 96
@@ -1274,7 +1274,7 @@
 	themeEnds96 = []
 	themeEnemySet1_96 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_96 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling96 = 1.0
+	themeEnemyHealthScaling96 = 20.0
 	themeDungeonSize96 = 14
 
 #Settings for Theme 97
@@ -1287,7 +1287,7 @@
 	themeEnds97 = []
 	themeEnemySet1_97 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_97 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling97 = 1.0
+	themeEnemyHealthScaling97 = 20.0
 	themeDungeonSize97 = 14
 
 #Settings for Theme 98
@@ -1300,7 +1300,7 @@
 	themeEnds98 = []
 	themeEnemySet1_98 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_98 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling98 = 1.0
+	themeEnemyHealthScaling98 = 20.0
 	themeDungeonSize98 = 14
 
 #Settings for Theme 99
@@ -1313,6 +1313,6 @@
 	themeEnds99 = []
 	themeEnemySet1_99 = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:spider"]
 	themeEnemySet2_99 = ["minecraft:wither_skeleton", "minecraft:stray", "minecraft:skeleton", "minecraft:pillager"]
-	themeEnemyHealthScaling99 = 1.0
+	themeEnemyHealthScaling99 = 20.0
 	themeDungeonSize99 = 14
 

@@ -32,32 +32,6 @@
     recipes.removeRecipe(<item:minecraft:diamond_sword>);
     recipes.removeRecipe(<item:minecraft:netherite_sword>);
 
-// Armor
-    recipes.removeRecipe(<item:minecraft:leather_helmet>);
-    recipes.removeRecipe(<item:minecraft:leather_chestplate>);
-    recipes.removeRecipe(<item:minecraft:leather_leggings>);
-    recipes.removeRecipe(<item:minecraft:leather_boots>);
-    recipes.removeRecipe(<item:minecraft:chainmail_helmet>);
-    recipes.removeRecipe(<item:minecraft:chainmail_chestplate>);
-    recipes.removeRecipe(<item:minecraft:chainmail_leggings>);
-    recipes.removeRecipe(<item:minecraft:chainmail_boots>);
-    recipes.removeRecipe(<item:minecraft:iron_helmet>);
-    recipes.removeRecipe(<item:minecraft:iron_chestplate>);
-    recipes.removeRecipe(<item:minecraft:iron_leggings>);
-    recipes.removeRecipe(<item:minecraft:iron_boots>);
-    recipes.removeRecipe(<item:minecraft:diamond_helmet>);
-    recipes.removeRecipe(<item:minecraft:diamond_chestplate>);
-    recipes.removeRecipe(<item:minecraft:diamond_leggings>);
-    recipes.removeRecipe(<item:minecraft:diamond_boots>);
-    recipes.removeRecipe(<item:minecraft:golden_helmet>);
-    recipes.removeRecipe(<item:minecraft:golden_chestplate>);
-    recipes.removeRecipe(<item:minecraft:golden_leggings>);
-    recipes.removeRecipe(<item:minecraft:golden_boots>);
-    recipes.removeRecipe(<item:minecraft:netherite_helmet>);
-    recipes.removeRecipe(<item:minecraft:netherite_chestplate>);
-    recipes.removeRecipe(<item:minecraft:netherite_leggings>);
-    recipes.removeRecipe(<item:minecraft:netherite_boots>);
-
 // Others
     recipes.removeRecipe(<item:minecraft:anvil>);
     recipes.removeRecipe(<item:minecraft:enchanting_table>);

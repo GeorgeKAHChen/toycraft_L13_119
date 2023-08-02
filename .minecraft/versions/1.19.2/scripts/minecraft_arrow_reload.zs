@@ -183,19 +183,19 @@ craftingTable.addShaped(
 
 craftingTable.addShaped(
     "*_dark_scales",
-    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:harming"}) * 64,
+    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:strong_harming"}) * 64,
     [[<item:minecraft:arrow>, <item:toycraft:dark_scales>]]
 );
 
 craftingTable.addShaped(
     "*_dragon_scales",
-    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:harming"}) * 64,
+    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:strong_harming"}) * 64,
     [[<item:minecraft:arrow>, <item:toycraft:dragon_scales>]]
 );
 
 craftingTable.addShaped(
     "*_king_scales",
-    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:harming"}) * 64,
+    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:strong_harming"}) * 64,
     [[<item:minecraft:arrow>, <item:toycraft:king_scales>]]
 );
 
@@ -279,7 +279,7 @@ craftingTable.addShaped(
 
 craftingTable.addShaped(
     "harming_diamond",
-    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:harming"}),
+    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:strong_harming"}) * 4,
     [[<item:minecraft:arrow>, <item:minecraft:diamond>]]
 );
 
@@ -339,7 +339,7 @@ craftingTable.addShaped(
 
 craftingTable.addShaped(
     "*_ancient_debris",
-    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:harming"}) * 32,
+    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:strong_harming"}) * 32,
     [[<item:minecraft:arrow>, <item:minecraft:ancient_debris>]]
 );
 
@@ -351,6 +351,6 @@ craftingTable.addShaped(
 
 craftingTable.addShaped(
     "*_nether_star",
-    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:harming"}) * 64,
+    <item:minecraft:tipped_arrow>.withTag({Potion: "minecraft:strong_harming"}) * 64,
     [[<item:minecraft:arrow>, <item:minecraft:nether_star>]]
 );
